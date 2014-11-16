@@ -1,0 +1,31 @@
+h1 {
+	color: blue;
+	font-size: 70px;
+
+}
+
+body {
+	background-color: black;
+	background-image: url("../images");
+	}
+
+div#heading_box {
+	border-width: 2px;
+	border-style: solid;
+	text-align: center; 	
+
+	}
+
+.with_yellow {
+	
+}
+
+.text_1 {
+	color: white;
+
+}
+
+.text_2	{
+	color: yellow;
+}
+
